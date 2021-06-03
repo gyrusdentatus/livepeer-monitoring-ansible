@@ -1,0 +1,4 @@
+---
+- name: install nvidia_exporter
+  import_tasks: nvidia_exporter.yaml
+  tags: install

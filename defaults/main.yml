@@ -1,0 +1,5 @@
+---
+# defaults file for nvidia_exporter
+#### not used right now
+_nvidia_exporter_system_user: "nvidia_exporter"
+_nvidia_exporter_system_group: "nvidia_exporter"

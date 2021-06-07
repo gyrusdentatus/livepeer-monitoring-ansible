@@ -1,0 +1,7 @@
+---
+- name: execute livepper node exporter installation role
+  hosts: all
+  become: true
+
+  roles:
+    - role: livepeer-node-exporter
